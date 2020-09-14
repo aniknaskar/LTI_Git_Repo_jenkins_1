@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcomne to Jenkins Server!!!!</h2>
+<h2>Welcomne to Jenkins World!!!!</h2>
 </body>
 </html>
